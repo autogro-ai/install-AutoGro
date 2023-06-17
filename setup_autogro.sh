@@ -71,7 +71,7 @@ sudo chmod 755 crontab.pi
 crontab_file="$HOME/bin/AutoGro/Scripts/crontab.pi"
 
 # Update crontab with sudo
-if sudo crontab "$crontab_file"; then
+if crontab "$crontab_file"; then
     echo "Crontab file added to the cron scheduler."
 else
     echo "Failed to add crontab file. Command execution failed."
@@ -83,7 +83,7 @@ if crontab -l | grep -q "Setting up logs to record at midnight, see more at /Scr
     echo "Crontab file already added to the cron scheduler."
 else
     echo "Failed to add crontab file. Verification failed."
-    failed_tasks+="Crontab Setup\n\nRUN THE FOLLOW COMMANDS MANUALLY:\nsudo crontab crontab.pi\ncrontab -l\n\nYou should see something like this now --> 0 0 * * * /home/pi/bin/AutoGro/Scripts/wrap &\n"
+    failed_tasks+="Crontab Setup\n\nRUN THE FOLLOW COMMANDS MANUALLY:\ncrontab crontab.pi\ncrontab -l\n\nYou should see something like this now --> 0 0 * * * /home/pi/bin/AutoGro/Scripts/wrap &\n"
 fi
 
 
