@@ -10,6 +10,7 @@ Open your Terminal And paste this command below to install the software.
 You should see something like this below. If you get an error running the command above, double check that you downloaded the install-autogro folder to your Downloads folder and it's unzipped.
 
 🍀Check out our Official Docs☘️ --> https://autogro.gitbook.io/autogro-docs/
+
 🔵Join our Discord Server🔵 -->https://discord.gg/mWMFBDhg
 
 Thanks for being a part of our Alpha launch.
