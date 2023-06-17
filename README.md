@@ -8,7 +8,7 @@ Open your Terminal And paste these two commands below to install the software.
    
 ```sudo apt update && sudo apt full-upgrade && sudo apt clean```
 
-3. Run this command to install AutoGro software.
+2. Run this command to install AutoGro software.
 
 ```git clone https://github.com/autogro-ai/install-autogro.git ~/Downloads/install-autogro && cd ~/Downloads/install-autogro && source setup_autogro.sh```
 
