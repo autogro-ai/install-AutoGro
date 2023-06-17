@@ -16,7 +16,7 @@ Open your Terminal And paste these two commands below to install the software.
 
 🔵Join our Discord Server🔵 --> https://discord.gg/mWMFBDhg
 
-You should see something like this below. If you get an error running the command above, double check that you downloaded the install-autogro folder to your Downloads folder and it's unzipped. 
+If run succesfully, you should see a message congratulating you on your successful install.
 
 Thanks for being a part of our Alpha launch.
 
