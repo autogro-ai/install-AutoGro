@@ -12,6 +12,8 @@ Open your Terminal And paste these two commands below to install the software.
 
 ```git clone https://github.com/autogro-ai/install-autogro.git ~/Downloads/install-autogro && cd ~/Downloads/install-autogro && source setup_autogro.sh```
 
+
+
 You should see something like this below. If you get an error running the command above, double check that you downloaded the install-autogro folder to your Downloads folder and it's unzipped.
 
 🍀Check out our Official Docs☘️ --> https://autogro.gitbook.io/autogro-docs/
