@@ -1,5 +1,6 @@
 # AutoGro Installer **Alpha**
-We've built an installer to get your environment setup on your Raspberry Pi!
+#We've built an installer to get your environment setup on your Raspberry Pi!
+
 
 Open your Terminal And paste this command below to install the software.
 
