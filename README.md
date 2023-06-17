@@ -11,7 +11,7 @@ You should see something like this below. If you get an error running the comman
 
 🍀Check out our Official Docs☘️ --> https://autogro.gitbook.io/autogro-docs/
 
-🔵Join our Discord Server🔵 -->https://discord.gg/mWMFBDhg
+🔵Join our Discord Server🔵 --> https://discord.gg/mWMFBDhg
 
 Thanks for being a part of our Alpha launch.
 
