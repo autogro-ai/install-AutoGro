@@ -20,5 +20,4 @@ If run succesfully, you should see a message congratulating you on your successf
 
 Thanks for being a part of our Alpha launch.
 
-<img width="1249" alt="Screenshot 2023-06-17 at 12 03 42 PM" src="https://github.com/autogro-ai/install-autogro/assets/131834659/b4e3ea19-7200-4d27-8a82-349b3d57fd43">
-
+![AutoGro Ai](https://github.com/autogro-ai/install-autogro/assets/131834659/a6456c7a-d472-4034-8dc3-3ac446b6c2b9)
