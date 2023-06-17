@@ -2,10 +2,12 @@
 ## We've built an installer to get your environment setup on your Raspberry Pi!
 ------------------------------------------------------------------------------------
 
-Open your Terminal And paste this command below to install the software.
+Open your Terminal And paste these two commands below to install the software.
 
+1. Make sure your OS software is up to date.
 ```sudo apt update && sudo apt full-upgrade && sudo apt clean```
 
+2. Run this command to install AutoGro software.
 ```git clone https://github.com/autogro-ai/install-autogro.git ~/Downloads/install-autogro && cd ~/Downloads/install-autogro && source setup_autogro.sh```
 
 You should see something like this below. If you get an error running the command above, double check that you downloaded the install-autogro folder to your Downloads folder and it's unzipped.
