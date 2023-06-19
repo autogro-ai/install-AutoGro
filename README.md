@@ -16,7 +16,7 @@ Open your Terminal And paste these two commands below to install the software.
 
 🔵Join our Discord Server🔵 --> https://discord.gg/mWMFBDhg
 
-If run succesfully, you should see a message congratulating you on your successful install.
+If it ran succesfully, you should see a message congratulating you on your successful install.
 
 Thanks for being a part of our Alpha launch.
 
