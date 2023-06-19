@@ -65,8 +65,8 @@ fi
 
 
 cd "$HOME/bin/AutoGro/Scripts"
-sudo cp rc.local /etc/
-sudo chmod 755 crontab.pi
+sudo cp $HOME/bin/AutoGro/Scripts/rc.local /etc/
+sudo chmod 755 $HOME/bin/AutoGro/Scripts/*
 
 crontab_file="$HOME/bin/AutoGro/Scripts/crontab.pi"
 
@@ -79,7 +79,7 @@ else
 fi
 
 # Check if crontab entry is present
-if crontab -l | grep -q "Setting up logs to record at midnight, see more at /Scripts/crontab.pi"; then
+if crontab -l | grep -q "$HOME/bin/AutoGro/Scripts/wrap"; then
     echo "Crontab file already added to the cron scheduler."
 else
     echo "Failed to add crontab file. Verification failed."
